@@ -1,6 +1,6 @@
 # 🌙 Pocket Oracle
 
-A high-fidelity Tarot reading application for Android and iOS.
+A comprehensive, user-friendly Tarot reading application for Android and iOS.
 
 ## ✨ Features
 
