@@ -1,0 +1,626 @@
+[
+  {
+    "id": 0,
+    "name": "The Fool",
+    "suit": "Major",
+    "meaning_upright": "Beginnings, innocence, spontaneity, a free spirit.",
+    "meaning_reversed": "Holding back, recklessness, risk-taking.",
+    "image": "assets/images/0.png"
+  },
+  {
+    "id": 1,
+    "name": "The Magician",
+    "suit": "Major",
+    "meaning_upright": "Manifestation, resourcefulness, power, inspired action.",
+    "meaning_reversed": "Manipulation, poor planning, untapped talents.",
+    "image": "assets/images/1.png"
+  },
+  {
+    "id": 2,
+    "name": "The High Priestess",
+    "suit": "Major",
+    "meaning_upright": "Intuition, sacred knowledge, divine feminine, the subconscious mind.",
+    "meaning_reversed": "Secrets, disconnected from intuition, withdrawal and silence.",
+    "image": "assets/images/2.png"
+  },
+  {
+    "id": 3,
+    "name": "The Empress",
+    "suit": "Major",
+    "meaning_upright": "Femininity, beauty, nature, nurturing, abundance.",
+    "meaning_reversed": "Creative block, dependence on others.",
+    "image": "assets/images/3.png"
+  },
+  {
+    "id": 4,
+    "name": "The Emperor",
+    "suit": "Major",
+    "meaning_upright": "Authority, establishment, structure, a father figure.",
+    "meaning_reversed": "Domination, excessive control, lack of discipline, inflexibility.",
+    "image": "assets/images/4.png"
+  },
+  {
+    "id": 5,
+    "name": "The Hierophant",
+    "suit": "Major",
+    "meaning_upright": "Spiritual wisdom, religious beliefs, conformity, tradition, institutions.",
+    "meaning_reversed": "Personal beliefs, freedom, challenging the status quo.",
+    "image": "assets/images/5.png"
+  },
+  {
+    "id": 6,
+    "name": "The Lovers",
+    "suit": "Major",
+    "meaning_upright": "Love, harmony, relationships, values alignment, choices.",
+    "meaning_reversed": "Self-love, disharmony, imbalance, misalignment of values.",
+    "image": "assets/images/6.png"
+  },
+  {
+    "id": 7,
+    "name": "The Chariot",
+    "suit": "Major",
+    "meaning_upright": "Control, will power, success, action, determination.",
+    "meaning_reversed": "Self-discipline, opposition, lack of direction.",
+    "image": "assets/images/7.png"
+  },
+  {
+    "id": 8,
+    "name": "Strength",
+    "suit": "Major",
+    "meaning_upright": "Strength, courage, persuasion, influence, compassion.",
+    "meaning_reversed": "Inner strength, self-doubt, low energy, raw emotion.",
+    "image": "assets/images/8.png"
+  },
+  {
+    "id": 9,
+    "name": "The Hermit",
+    "suit": "Major",
+    "meaning_upright": "Soul-searching, introspection, being alone, inner guidance.",
+    "meaning_reversed": "Isolation, loneliness, withdrawal.",
+    "image": "assets/images/9.png"
+  },
+  {
+    "id": 10,
+    "name": "Wheel of Fortune",
+    "suit": "Major",
+    "meaning_upright": "Good luck, karma, life cycles, destiny, a turning point.",
+    "meaning_reversed": "Bad luck, resistance to change, breaking cycles.",
+    "image": "assets/images/10.png"
+  },
+  {
+    "id": 11,
+    "name": "Justice",
+    "suit": "Major",
+    "meaning_upright": "Justice, fairness, truth, cause and effect, law.",
+    "meaning_reversed": "Unfairness, lack of accountability, dishonesty.",
+    "image": "assets/images/11.png"
+  },
+  {
+    "id": 12,
+    "name": "The Hanged Man",
+    "suit": "Major",
+    "meaning_upright": "Pause, surrender, letting go, new perspectives.",
+    "meaning_reversed": "Delays, resistance, stalling, indecision.",
+    "image": "assets/images/12.png"
+  },
+  {
+    "id": 13,
+    "name": "Death",
+    "suit": "Major",
+    "meaning_upright": "Endings, change, transformation, transition.",
+    "meaning_reversed": "Resistance to change, personal transformation, inner purging.",
+    "image": "assets/images/13.png"
+  },
+  {
+    "id": 14,
+    "name": "Temperance",
+    "suit": "Major",
+    "meaning_upright": "Balance, moderation, patience, purpose.",
+    "meaning_reversed": "Imbalance, excess, self-healing, re-alignment.",
+    "image": "assets/images/14.png"
+  },
+  {
+    "id": 15,
+    "name": "The Devil",
+    "suit": "Major",
+    "meaning_upright": "Shadow self, attachment, addiction, restriction, sexuality.",
+    "meaning_reversed": "Releasing limiting beliefs, exploring dark thoughts, detachment.",
+    "image": "assets/images/15.png"
+  },
+  {
+    "id": 16,
+    "name": "The Tower",
+    "suit": "Major",
+    "meaning_upright": "Sudden change, upheaval, chaos, revelation, awakening.",
+    "meaning_reversed": "Personal transformation, fear of change, averting disaster.",
+    "image": "assets/images/16.png"
+  },
+  {
+    "id": 17,
+    "name": "The Star",
+    "suit": "Major",
+    "meaning_upright": "Hope, faith, purpose, renewal, spirituality.",
+    "meaning_reversed": "Lack of faith, despair, self-trust, disconnection.",
+    "image": "assets/images/17.png"
+  },
+  {
+    "id": 18,
+    "name": "The Moon",
+    "suit": "Major",
+    "meaning_upright": "Illusion, fear, anxiety, subconscious, intuition.",
+    "meaning_reversed": "Release of fear, repressed emotion, inner confusion.",
+    "image": "assets/images/18.png"
+  },
+  {
+    "id": 19,
+    "name": "The Sun",
+    "suit": "Major",
+    "meaning_upright": "Positivity, fun, warmth, success, vitality.",
+    "meaning_reversed": "Inner child, feeling down, overly optimistic.",
+    "image": "assets/images/19.png"
+  },
+  {
+    "id": 20,
+    "name": "Judgement",
+    "suit": "Major",
+    "meaning_upright": "Judgement, rebirth, inner calling, absolution.",
+    "meaning_reversed": "Self-doubt, inner critic, ignoring the call.",
+    "image": "assets/images/20.png"
+  },
+  {
+    "id": 21,
+    "name": "The World",
+    "suit": "Major",
+    "meaning_upright": "Completion, integration, accomplishment, travel.",
+    "meaning_reversed": "Seeking closure, short-cuts, delays.",
+    "image": "assets/images/21.png"
+  },
+  {
+    "id": 22,
+    "name": "Ace of Cups",
+    "suit": "Cups",
+    "meaning_upright": "Love, new feelings, spirituality, intuition.",
+    "meaning_reversed": "Self-love, intuition, repressed emotions.",
+    "image": "assets/images/22.png"
+  },
+  {
+    "id": 23,
+    "name": "Two of Cups",
+    "suit": "Cups",
+    "meaning_upright": "Unified love, partnership, mutual attraction.",
+    "meaning_reversed": "Self-love, disharmony, distrust.",
+    "image": "assets/images/23.png"
+  },
+  {
+    "id": 24,
+    "name": "Three of Cups",
+    "suit": "Cups",
+    "meaning_upright": "Celebration, friendship, creativity, collaborations.",
+    "meaning_reversed": "Independence, alone time, hardcore party, gossip.",
+    "image": "assets/images/24.png"
+  },
+  {
+    "id": 25,
+    "name": "Four of Cups",
+    "suit": "Cups",
+    "meaning_upright": "Meditation, contemplation, apathy, re-evaluation.",
+    "meaning_reversed": "Retreat, withdrawal, checking in for awareness.",
+    "image": "assets/images/25.png"
+  },
+  {
+    "id": 26,
+    "name": "Five of Cups",
+    "suit": "Cups",
+    "meaning_upright": "Regret, failure, disappointment, pessimism.",
+    "meaning_reversed": "Personal setbacks, self-forgiveness, moving on.",
+    "image": "assets/images/26.png"
+  },
+  {
+    "id": 27,
+    "name": "Six of Cups",
+    "suit": "Cups",
+    "meaning_upright": "Revisiting the past, childhood memories, innocence, joy.",
+    "meaning_reversed": "Living in the past, forgiveness, lacking playfulness.",
+    "image": "assets/images/27.png"
+  },
+  {
+    "id": 28,
+    "name": "Seven of Cups",
+    "suit": "Cups",
+    "meaning_upright": "Opportunities, choices, wishful thinking, illusion.",
+    "meaning_reversed": "Alignment, personal values, overwhelmed by choices.",
+    "image": "assets/images/28.png"
+  },
+  {
+    "id": 29,
+    "name": "Eight of Cups",
+    "suit": "Cups",
+    "meaning_upright": "Disappointment, abandonment, withdrawal, escaping.",
+    "meaning_reversed": "Trying one more time, indecision, aimless drifting.",
+    "image": "assets/images/29.png"
+  },
+  {
+    "id": 30,
+    "name": "Nine of Cups",
+    "suit": "Cups",
+    "meaning_upright": "Contentment, satisfaction, gratitude, wish come true.",
+    "meaning_reversed": "Inner happiness, materialism, dissatisfaction, indulgence.",
+    "image": "assets/images/30.png"
+  },
+  {
+    "id": 31,
+    "name": "Ten of Cups",
+    "suit": "Cups",
+    "meaning_upright": "Divine love, blissful relationships, harmony, alignment.",
+    "meaning_reversed": "Disconnection, misaligned values, struggling relationships.",
+    "image": "assets/images/31.png"
+  },
+  {
+    "id": 32,
+    "name": "Page of Cups",
+    "suit": "Cups",
+    "meaning_upright": "Creative opportunities, intuitive messages, curiosity, possibility.",
+    "meaning_reversed": "New ideas, doubting intuition, creative blocks, emotional immaturity.",
+    "image": "assets/images/32.png"
+  },
+  {
+    "id": 33,
+    "name": "Knight of Cups",
+    "suit": "Cups",
+    "meaning_upright": "Creativity, romance, charm, imagination, beauty.",
+    "meaning_reversed": "Overactive imagination, unrealistic, jealous, moody.",
+    "image": "assets/images/33.png"
+  },
+  {
+    "id": 34,
+    "name": "Queen of Cups",
+    "suit": "Cups",
+    "meaning_upright": "Compassionate, caring, emotionally stable, intuitive, in flow.",
+    "meaning_reversed": "Inner feelings, self-care, self-love, co-dependency.",
+    "image": "assets/images/34.png"
+  },
+  {
+    "id": 35,
+    "name": "King of Cups",
+    "suit": "Cups",
+    "meaning_upright": "Emotionally balanced, focused, compassionate.",
+    "meaning_reversed": "Self-compassion, inner feelings, moodiness, emotionally manipulative.",
+    "image": "assets/images/35.png"
+  },
+  {
+    "id": 36,
+    "name": "Ace of Pentacles",
+    "suit": "Pentacles",
+    "meaning_upright": "A new financial or career opportunity, manifestation, abundance.",
+    "meaning_reversed": "Lost opportunity, lack of planning and foresight.",
+    "image": "assets/images/36.png"
+  },
+  {
+    "id": 37,
+    "name": "Two of Pentacles",
+    "suit": "Pentacles",
+    "meaning_upright": "Multiple priorities, time management, prioritization, adaptability.",
+    "meaning_reversed": "Over-committed, disorganized, reprioritizing.",
+    "image": "assets/images/37.png"
+  },
+  {
+    "id": 38,
+    "name": "Three of Pentacles",
+    "suit": "Pentacles",
+    "meaning_upright": "Teamwork, collaboration, learning, implementation.",
+    "meaning_reversed": "Disharmony, misaligned goals, working alone.",
+    "image": "assets/images/38.png"
+  },
+  {
+    "id": 39,
+    "name": "Four of Pentacles",
+    "suit": "Pentacles",
+    "meaning_upright": "Saving money, security, conservatism, scarcity, control.",
+    "meaning_reversed": "Over-spending, greed, self-protection.",
+    "image": "assets/images/39.png"
+  },
+  {
+    "id": 40,
+    "name": "Five of Pentacles",
+    "suit": "Pentacles",
+    "meaning_upright": "Financial loss, poverty, lack mindset, isolation, worry.",
+    "meaning_reversed": "Recovery from financial loss, spiritual poverty.",
+    "image": "assets/images/40.png"
+  },
+  {
+    "id": 41,
+    "name": "Six of Pentacles",
+    "suit": "Pentacles",
+    "meaning_upright": "Giving, receiving, sharing wealth, generosity, charity.",
+    "meaning_reversed": "Self-care, unpaid debts, one-sided charity.",
+    "image": "assets/images/41.png"
+  },
+  {
+    "id": 42,
+    "name": "Seven of Pentacles",
+    "suit": "Pentacles",
+    "meaning_upright": "Long-term view, sustainable results, perseverance, investment.",
+    "meaning_reversed": "Lack of long-term vision, limited success or reward.",
+    "image": "assets/images/42.png"
+  },
+  {
+    "id": 43,
+    "name": "Eight of Pentacles",
+    "suit": "Pentacles",
+    "meaning_upright": "Apprenticeship, repetitive effort, mastery, skill development.",
+    "meaning_reversed": "Self-development, perfectionism, misdirected activity.",
+    "image": "assets/images/43.png"
+  },
+  {
+    "id": 44,
+    "name": "Nine of Pentacles",
+    "suit": "Pentacles",
+    "meaning_upright": "Abundance, luxury, self-sufficiency, financial independence.",
+    "meaning_reversed": "Self-worth, over-investment in work, hustling.",
+    "image": "assets/images/44.png"
+  },
+  {
+    "id": 45,
+    "name": "Ten of Pentacles",
+    "suit": "Pentacles",
+    "meaning_upright": "Wealth, financial security, family, long-term success, contribution.",
+    "meaning_reversed": "The dark side of wealth, financial failure or loss.",
+    "image": "assets/images/45.png"
+  },
+  {
+    "id": 46,
+    "name": "Page of Pentacles",
+    "suit": "Pentacles",
+    "meaning_upright": "Manifestation, financial opportunity, skill development.",
+    "meaning_reversed": "Lack of progress, procrastination, learning from failure.",
+    "image": "assets/images/46.png"
+  },
+  {
+    "id": 47,
+    "name": "Knight of Pentacles",
+    "suit": "Pentacles",
+    "meaning_upright": "Hard work, productivity, routine, conservatism.",
+    "meaning_reversed": "Self-discipline, boredom, feeling ‘stuck’, perfectionism.",
+    "image": "assets/images/47.png"
+  },
+  {
+    "id": 48,
+    "name": "Queen of Pentacles",
+    "suit": "Pentacles",
+    "meaning_upright": "Nurturing, practical, providing financially, a working parent.",
+    "meaning_reversed": "Financial independence, self-care, work-life imbalance.",
+    "image": "assets/images/48.png"
+  },
+  {
+    "id": 49,
+    "name": "King of Pentacles",
+    "suit": "Pentacles",
+    "meaning_upright": "Wealth, business, leadership, security, discipline, abundance.",
+    "meaning_reversed": "Financially inept, obsessed with wealth and status, stubborn.",
+    "image": "assets/images/49.png"
+  },
+  {
+    "id": 50,
+    "name": "Ace of Swords",
+    "suit": "Swords",
+    "meaning_upright": "Breakthroughs, new ideas, mental clarity, success.",
+    "meaning_reversed": "Inner thoughts, clouding judgement, confusion.",
+    "image": "assets/images/50.png"
+  },
+  {
+    "id": 51,
+    "name": "Two of Swords",
+    "suit": "Swords",
+    "meaning_upright": "Difficult decisions, weighing up options, an impasse, avoidance.",
+    "meaning_reversed": "Indecision, confusion, information overload, lesser of two evils.",
+    "image": "assets/images/51.png"
+  },
+  {
+    "id": 52,
+    "name": "Three of Swords",
+    "suit": "Swords",
+    "meaning_upright": "Heartbreak, emotional pain, sorrow, grief, hurt.",
+    "meaning_reversed": "Negative self-talk, releasing pain, optimism, forgiveness.",
+    "image": "assets/images/52.png"
+  },
+  {
+    "id": 53,
+    "name": "Four of Swords",
+    "suit": "Swords",
+    "meaning_upright": "Rest, relaxation, meditation, contemplation, recuperation.",
+    "meaning_reversed": "Exhaustion, burnout, deep contemplation, stagnation.",
+    "image": "assets/images/53.png"
+  },
+  {
+    "id": 54,
+    "name": "Five of Swords",
+    "suit": "Swords",
+    "meaning_upright": "Conflict, disagreements, competition, defeat, winning at all costs.",
+    "meaning_reversed": "Reconciliation, making amends, past resentment.",
+    "image": "assets/images/54.png"
+  },
+  {
+    "id": 55,
+    "name": "Six of Swords",
+    "suit": "Swords",
+    "meaning_upright": "Transition, change, rite of passage, releasing baggage.",
+    "meaning_reversed": "Personal transition, resistance to change, unfinished business.",
+    "image": "assets/images/55.png"
+  },
+  {
+    "id": 56,
+    "name": "Seven of Swords",
+    "suit": "Swords",
+    "meaning_upright": "Betrayal, deception, getting away with something, stealth.",
+    "meaning_reversed": "Imposter syndrome, self-deceit, keeping secrets.",
+    "image": "assets/images/56.png"
+  },
+  {
+    "id": 57,
+    "name": "Eight of Swords",
+    "suit": "Swords",
+    "meaning_upright": "Negative thoughts, self-imposed restriction, imprisonment, victim mentality.",
+    "meaning_reversed": "Self-limiting beliefs, inner freedom, release, open to new perspectives.",
+    "image": "assets/images/57.png"
+  },
+  {
+    "id": 58,
+    "name": "Nine of Swords",
+    "suit": "Swords",
+    "meaning_upright": "Anxiety, worry, fear, depression, nightmares.",
+    "meaning_reversed": "Inner turmoil, deep-seated fears, secrets, releasing worry.",
+    "image": "assets/images/58.png"
+  },
+  {
+    "id": 59,
+    "name": "Ten of Swords",
+    "suit": "Swords",
+    "meaning_upright": "Painful ending, deep wounds, betrayal, loss, crisis.",
+    "meaning_reversed": "Recovery, regeneration, resisting an inevitable end.",
+    "image": "assets/images/59.png"
+  },
+  {
+    "id": 60,
+    "name": "Page of Swords",
+    "suit": "Swords",
+    "meaning_upright": "New ideas, curiosity, thirst for knowledge, new ways of communicating.",
+    "meaning_reversed": "Self-expression, all-talk-and-no-action, haphazard action, haste.",
+    "image": "assets/images/60.png"
+  },
+  {
+    "id": 61,
+    "name": "Knight of Swords",
+    "suit": "Swords",
+    "meaning_upright": "Ambitious, action-oriented, driven to succeed, fast-thinking.",
+    "meaning_reversed": "Restless, unfocused, impulsive, burn-out.",
+    "image": "assets/images/61.png"
+  },
+  {
+    "id": 62,
+    "name": "Queen of Swords",
+    "suit": "Swords",
+    "meaning_upright": "Independent, unbiased judgement, clear boundaries, direct communication.",
+    "meaning_reversed": "Overly-emotional, easily influenced, cold-hearted, bitchy.",
+    "image": "assets/images/62.png"
+  },
+  {
+    "id": 63,
+    "name": "King of Swords",
+    "suit": "Swords",
+    "meaning_upright": "Mental clarity, intellectual power, authority, truth.",
+    "meaning_reversed": "Quiet power, inner truth, misuse of power, manipulation.",
+    "image": "assets/images/63.png"
+  },
+  {
+    "id": 64,
+    "name": "Ace of Wands",
+    "suit": "Wands",
+    "meaning_upright": "Inspiration, new opportunities, growth, potential.",
+    "meaning_reversed": "An emerging idea, lack of direction, distractions, delays.",
+    "image": "assets/images/64.png"
+  },
+  {
+    "id": 65,
+    "name": "Two of Wands",
+    "suit": "Wands",
+    "meaning_upright": "Future planning, progress, decisions, discovery.",
+    "meaning_reversed": "Personal goals, inner alignment, fear of unknown, lack of planning.",
+    "image": "assets/images/65.png"
+  },
+  {
+    "id": 66,
+    "name": "Three of Wands",
+    "suit": "Wands",
+    "meaning_upright": "Expansion, foresight, overseas opportunities.",
+    "meaning_reversed": "Playing small, lack of foresight, unexpected delays.",
+    "image": "assets/images/66.png"
+  },
+  {
+    "id": 67,
+    "name": "Four of Wands",
+    "suit": "Wands",
+    "meaning_upright": "Celebration, joy, harmony, relaxation, homecoming.",
+    "meaning_reversed": "Personal celebration, inner harmony, conflict with others.",
+    "image": "assets/images/67.png"
+  },
+  {
+    "id": 68,
+    "name": "Five of Wands",
+    "suit": "Wands",
+    "meaning_upright": "Conflict, disagreements, competition, tension, diversity.",
+    "meaning_reversed": "Inner conflict, avoiding conflict, release of tension.",
+    "image": "assets/images/68.png"
+  },
+  {
+    "id": 69,
+    "name": "Six of Wands",
+    "suit": "Wands",
+    "meaning_upright": "Success, public recognition, progress, self-confidence.",
+    "meaning_reversed": "Private achievement, personal definition of success, fall from grace.",
+    "image": "assets/images/69.png"
+  },
+  {
+    "id": 70,
+    "name": "Seven of Wands",
+    "suit": "Wands",
+    "meaning_upright": "Challenge, competition, protection, perseverance.",
+    "meaning_reversed": "Exhaustion, giving up, overwhelmed.",
+    "image": "assets/images/70.png"
+  },
+  {
+    "id": 71,
+    "name": "Eight of Wands",
+    "suit": "Wands",
+    "meaning_upright": "Speed, movement, action, alignment, air travel.",
+    "meaning_reversed": "Delays, frustration, resisting change, internal alignment.",
+    "image": "assets/images/71.png"
+  },
+  {
+    "id": 72,
+    "name": "Nine of Wands",
+    "suit": "Wands",
+    "meaning_upright": "Resilience, courage, persistence, test of faith, boundaries.",
+    "meaning_reversed": "Inner resources, struggle, overwhelmed, defensive.",
+    "image": "assets/images/72.png"
+  },
+  {
+    "id": 73,
+    "name": "Ten of Wands",
+    "suit": "Wands",
+    "meaning_upright": "Burden, extra responsibility, hard work, completion.",
+    "meaning_reversed": "Doing it all, carrying the burden, delegation, release.",
+    "image": "assets/images/73.png"
+  },
+  {
+    "id": 74,
+    "name": "Page of Wands",
+    "suit": "Wands",
+    "meaning_upright": "Inspiration, ideas, discovery, limitless potential, free spirit.",
+    "meaning_reversed": "Newly-formed ideas, redirecting energy, self-limiting beliefs, spiritual path.",
+    "image": "assets/images/74.png"
+  },
+  {
+    "id": 75,
+    "name": "Knight of Wands",
+    "suit": "Wands",
+    "meaning_upright": "Energy, passion, inspired action, adventure, impulsiveness.",
+    "meaning_reversed": "Passion project, haste, scattered energy, delays, frustration.",
+    "image": "assets/images/75.png"
+  },
+  {
+    "id": 76,
+    "name": "Queen of Wands",
+    "suit": "Wands",
+    "meaning_upright": "Courage, confidence, independence, social butterfly, determination.",
+    "meaning_reversed": "Self-confidence, self-actualization, re-evaluating priorities.",
+    "image": "assets/images/76.png"
+  },
+  {
+    "id": 77,
+    "name": "King of Wands",
+    "suit": "Wands",
+    "meaning_upright": "Natural-born leader, vision, entrepreneur, honour.",
+    "meaning_reversed": "Impulsiveness, haste, ruthless, high expectations.",
+    "image": "assets/images/77.png"
+  }
+]
