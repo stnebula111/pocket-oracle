@@ -1,3 +1,5 @@
+<img width="1638" height="1638" alt="app_icon (Edit)" src="https://github.com/user-attachments/assets/34f61a86-bfde-4233-b53e-38b3e861b31b" />
+
 # 🌙 Pocket Oracle
 
 A comprehensive, user-friendly Tarot reading application for Android and iOS.
