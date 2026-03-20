@@ -19,7 +19,3 @@ A comprehensive, user-friendly Tarot reading application for Android and iOS.
 - **Database/Auth:** Firebase (Firestore & Anonymous Auth)
 - **State Management:** StatefulWidget / setState
 - **Graphics:** Custom Painter & 3D FlipCard
-
-<img alt="Screenshot1" src="https://github.com/user-attachments/assets/d6c013c1-5d33-4b8f-a3d5-8aabb6bdd3ba" />
-
-<img alt="Screenshot2" src="https://github.com/user-attachments/assets/e77b0082-e415-401b-aa73-8ab68ea69ba4" />
