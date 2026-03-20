@@ -1,17 +1,19 @@
-# tarot_app
+# 🌙 Pocket Oracle
 
-A new Flutter project.
+A high-fidelity Tarot reading application for Android and iOS.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- **Dynamic Spreads:** Choose from Daily Pull, 3-Card Spread, Horseshoe, and Celtic Cross.
+- **Mystical UI:** Twinkling animated starfield background and smooth card-flip animations.
+- **Encyclopedia:** Full library of 78 cards with search and suit-filtering logic.
+- **Cloud Journal:** Save your readings to Firebase with personal notes.
+- **Personalization:** Discover your Birth Card and choose custom deck backs.
+- **Tactile Feedback:** Crisp haptic vibrations and high-quality card sounds.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Framework:** Flutter
+- **Database/Auth:** Firebase (Firestore & Anonymous Auth)
+- **State Management:** StatefulWidget / setState
+- **Graphics:** Custom Painter & 3D FlipCard
